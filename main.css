@@ -31,7 +31,7 @@ ul.sideways li {
     margin-left: 10px;
 }
 
-/* @media (prefers-color-scheme: dark) { */
+@media (prefers-color-scheme: dark) {
     body {
         background-color: black;
         color: rgb(209, 209, 209);
@@ -57,4 +57,4 @@ ul.sideways li {
         opacity: 0.8;
         transition: opacity .25s ease-in-out;
     }
-/* } */
+}
